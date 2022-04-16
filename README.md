@@ -19,7 +19,7 @@
  </div>
    
  <div align="center">
-  <h1>Some of the technologies I'm interested in learning on the future...</h1>
+  <h1>Some of the technologies I'm interested in learning in the future...</h1>
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
