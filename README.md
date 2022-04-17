@@ -1,4 +1,4 @@
-<h1>Hi there! My name is Erick Fares! 👋</h1>
+<h1>Hi there! My name is Erick! 👋</h1>
 
 <div align="center">
   <a href="https://github.com/kcirefrz">
